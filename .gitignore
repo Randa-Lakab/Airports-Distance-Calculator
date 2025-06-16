@@ -1,0 +1,19 @@
+# Ignore Python cache
+pycache/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Gradle/Android-related folders (if they exist accidentally)
+.gradle/
+build/
+.idea/
+
+# Ignore OS-specific files
+*.log
+
+# Ignore virtual environments
+env/
+venv/

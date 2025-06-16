@@ -1,0 +1,3 @@
+Python 3.x
+
+No external libraries required (only standard libraries: json, math)
