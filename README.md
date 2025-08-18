@@ -1,6 +1,10 @@
-# Airport Distance Calculator ✈️
+# Airport Distance Calculator 
 
 This Python script calculates the distance between two airports based on their IATA codes using the Haversine formula.
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
 ## Features
 - Loads airport data from a JSON file
