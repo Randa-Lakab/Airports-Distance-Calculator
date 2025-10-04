@@ -12,7 +12,7 @@ This Python script calculates the distance between two airports based on their I
 - Calculates the distance in kilometers
 - Displays coordinates of each airport
 
-## Usage
+### Usage
 
 1. Make sure you have a valid airports.json file with airport data.
 2. Run the script:
