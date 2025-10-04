@@ -16,8 +16,9 @@ This Python script calculates the distance between two airports based on their I
 
 1. Make sure you have a valid airports.json file with airport data.
 2. Run the script:
-`bash
+```bash
 python airport_distance.py
+```
 3. Enter the IATA codes when prompted.
 
 ### Example
