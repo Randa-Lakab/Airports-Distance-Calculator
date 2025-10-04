@@ -20,7 +20,7 @@ This Python script calculates the distance between two airports based on their I
 python airport_distance.py
 3. Enter the IATA codes when prompted.
 
-## Example
+### Example
 
 Enter the IATA code of the first airport: CDG
 Enter the IATA code of the second airport: JFK
