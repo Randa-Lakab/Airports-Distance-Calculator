@@ -22,6 +22,10 @@ python airport_distance.py
 
 ### Example
 
-Enter the IATA code of the first airport: CDG
-Enter the IATA code of the second airport: JFK
+Enter the IATA code of the first airport:
+ CDG
+
+Enter the IATA code of the second airport:
+ JFK
+
 The distance between CDG and JFK is 5846.02 km.
