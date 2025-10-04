@@ -6,7 +6,7 @@ This Python script calculates the distance between two airports based on their I
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
-## Features
+### Features
 - Loads airport data from a JSON file
 - Allows user to input two IATA codes
 - Calculates the distance in kilometers
