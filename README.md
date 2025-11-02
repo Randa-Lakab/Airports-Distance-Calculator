@@ -21,7 +21,6 @@ python airport_distance.py
 ```
 3. Enter the IATA codes when prompted.
 
----
 
 ### Example
 
