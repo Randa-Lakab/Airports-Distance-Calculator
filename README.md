@@ -24,7 +24,7 @@ python airport_distance.py
 
 ### Example
 
->> Enter the IATA code of the first airport:
+> Enter the IATA code of the first airport:
  CDG
 
 Enter the IATA code of the second airport:
